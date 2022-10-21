@@ -1,0 +1,35 @@
+.browseTittle_wrap {
+  text-align: center;
+}
+.browseTittle1 {
+  font-weight: lighter;
+  font-style: italic;
+}
+.browseTittle2 {
+  font-style: italic;
+}
+.imageCategory_wrap1 {
+  text-align: center;
+}
+.imageCategory_wrap2 {
+  text-align: center;
+}
+.browseCategory_wrap img {
+  margin: 0.5vw;
+}
+.browseCategory_wrap img:hover {
+  animation: fadeinout 6s linear 1 forwards;
+  cursor: pointer;
+}
+
+@keyframes fadeinout {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

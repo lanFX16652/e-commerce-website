@@ -1,0 +1,22 @@
+.form {
+  width: 26vw !important;
+  height: 4vw;
+  padding: 1vw;
+  font-size: 0.9vw;
+  margin: 0vw !important;
+  border-radius: 0px !important;
+}
+.form-button {
+  width: 8vw;
+  height: 4vw;
+  padding: 1vw;
+  font-size: 1vw !important;
+  margin: 0vw !important;
+  border-radius: 0px !important;
+  background-color: #383838 !important;
+  color: white !important;
+  border: none !important;
+}
+.subscribeForm-wrap {
+  margin: 1vw 2vw;
+}

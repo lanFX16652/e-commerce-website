@@ -1,0 +1,18 @@
+.shopBanner_wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: whitesmoke;
+  width: 70%;
+  height: 10vw;
+  margin: 0 auto;
+}
+.shopBanner_title1 {
+  margin: 4vw;
+  font-style: italic;
+}
+.shopBanner_title2 {
+  margin: 4vw;
+  font-style: italic;
+  color: rgb(136, 136, 136);
+}

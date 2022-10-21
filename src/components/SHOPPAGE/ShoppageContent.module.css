@@ -1,0 +1,20 @@
+.shoppageContent_wrap {
+  width: 50vw;
+}
+.shoppageContent_menu {
+  display: flex;
+  justify-content: space-between;
+}
+.shoppage_select {
+  width: 10vw;
+  margin: 1vw;
+}
+.shoppageContent_input {
+  margin: 1vw;
+  width: 15vw;
+}
+.shoppage_pagination {
+  margin: 2vw;
+  position: relative;
+  left: 40vw;
+}

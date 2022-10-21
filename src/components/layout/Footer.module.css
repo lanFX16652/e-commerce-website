@@ -1,0 +1,17 @@
+.footer_container {
+  background-color: black;
+  margin: 0vw 2vw;
+}
+.column {
+  font-style: italic;
+  padding: 1vw 3vw;
+  color: white;
+}
+.a_wrap {
+  display: flex;
+  flex-direction: column;
+}
+.a_wrap a {
+  color: white;
+  text-decoration: none;
+}

@@ -1,0 +1,16 @@
+.products_wrap {
+  display: flex;
+  flex-flow: wrap;
+  height: 40vw;
+  width: 70vw;
+  margin-left: 10vw;
+  justify-content: center;
+  padding-left: 5vw;
+}
+.trendingProduct_tittle1 {
+  margin-top: 3vw;
+  margin-left: 17vw;
+}
+.trendingProduct_tittle2 {
+  margin-left: 17vw;
+}

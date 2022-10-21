@@ -1,0 +1,33 @@
+.banner {
+  position: relative;
+}
+.imageBanner_wrap {
+  text-align: center;
+}
+.imageBanner_wrap img {
+  width: 65vw;
+}
+.content1_wrap {
+  position: absolute;
+  top: 10vw;
+  left: 21vw;
+}
+.content2_wrap {
+  position: absolute;
+  top: 11.5vw;
+  left: 21vw;
+  width: 20vw;
+}
+.contentBanner_wrap button {
+  position: absolute;
+  top: 17vw;
+  left: 21vw;
+  font-size: 1vw;
+  padding: 0.3vw 2vw;
+  color: white;
+  font-weight: lighter;
+  font-style: italic;
+  background-color: #383838;
+  border: none;
+  cursor: pointer;
+}

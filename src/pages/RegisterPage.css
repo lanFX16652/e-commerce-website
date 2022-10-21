@@ -1,0 +1,40 @@
+.register-background {
+  background-image: url("/Resource Assignment 03/banner1.jpg");
+  padding: 3vw 0vw;
+}
+.register-container {
+  width: 30%;
+  margin: 0 auto;
+  padding: 2vw;
+
+  text-align: center;
+  background-color: white;
+
+  border-radius: 1vw;
+}
+.register-container h1 {
+  margin: 2vw;
+}
+.register-container p {
+  margin: 3vw 0vw 0vw 0vw;
+}
+.register-wrap {
+  border: 1px black solid;
+  margin: 1vw 0vw;
+}
+.register-form {
+  border: none;
+  border-bottom: 1px black solid;
+  border-radius: 0px !important;
+  /*box-sizing*/
+  padding: 1vw !important;
+}
+.register-button {
+  width: 100%;
+  margin: 1vw 0vw;
+  padding: 1vw !important;
+  color: white;
+  background-color: #494949 !important;
+  border: none !important;
+  border-radius: 0px !important;
+}

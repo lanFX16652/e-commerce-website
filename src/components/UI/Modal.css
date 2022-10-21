@@ -1,0 +1,28 @@
+.modal-popup {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.079);
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  z-index: 30;
+  justify-content: center;
+  animation: slide-down 300ms ease-out forwards;
+}
+@keyframes slide-down {
+  from {
+    opacity: 0;
+    transform: translateY(-3rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.modal-content-wrap {
+  width: 60vw;
+  height: 30vw;
+  background-color: white;
+  justify-content: center;
+  margin: 8vw 17vw;
+}

@@ -1,0 +1,9 @@
+.cartPageRender-image {
+  width: 10vw;
+}
+.cartPageRender-removeicon svg {
+  width: 2vw;
+}
+svg {
+  cursor: pointer;
+}

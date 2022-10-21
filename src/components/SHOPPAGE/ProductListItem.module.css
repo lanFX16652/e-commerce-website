@@ -1,0 +1,27 @@
+.productListItem_wrap {
+  text-align: center;
+  width: 14vw;
+  height: 16vw;
+  margin: 0.5vw 1vw;
+}
+.productListItem_wrap img {
+  width: 12vw;
+  height: 13vw;
+  margin: 1vw;
+}
+.productListItem_wrap img:hover {
+  animation: fadeinout 6s linear 1 forwards;
+  cursor: pointer;
+}
+
+@keyframes fadeinout {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

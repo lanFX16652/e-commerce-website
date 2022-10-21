@@ -1,0 +1,32 @@
+.container_swap {
+  position: relative;
+}
+.close-btn {
+  position: absolute;
+  top: 1vw;
+  right: 1vw;
+  background-color: white;
+  border: none;
+
+  font-weight: bold;
+}
+.contentPopup-container {
+  display: flex;
+  justify-content: space-between;
+}
+.product-image {
+  width: 30vw;
+  height: auto;
+}
+.contentPopup-wrap {
+  width: 25vw;
+  height: 20vw;
+  margin: 4vw;
+}
+.popup-button {
+  background-color: rgba(0, 0, 0, 0.706);
+  border: none;
+  padding: 0.5vw 1vw;
+  color: white;
+  font-style: italic;
+}

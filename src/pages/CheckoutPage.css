@@ -1,0 +1,34 @@
+.checkoutBanner_wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: whitesmoke;
+  width: 70%;
+  height: 10vw;
+  margin: 0 auto;
+}
+.checkoutBanner_title1 {
+  margin: 4vw;
+  font-style: italic;
+}
+.checkoutBanner_breadcrumb {
+  margin: 4vw;
+  font-style: italic;
+  color: rgb(136, 136, 136);
+}
+.checkoutBanner_breadcrumb a {
+  text-decoration: none;
+  color: rgb(136, 136, 136);
+}
+
+/* CHECKOUT PAGE CONTENT */
+.checkoutContent_wrap {
+  display: flex;
+  justify-content: space-between;
+  width: 70vw;
+  margin: 0 auto;
+  padding: 3vw 2vw;
+}
+.checkoutContent_billing_wrap {
+  width: 25vw;
+}

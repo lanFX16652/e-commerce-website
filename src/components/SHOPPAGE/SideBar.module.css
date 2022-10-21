@@ -1,0 +1,31 @@
+.sidebar {
+  width: 12vw;
+  font-style: italic;
+  margin: 1vw;
+}
+.sidebar h5 {
+  color: black;
+  padding: 0.5vw 0vw 0.5vw 1vw;
+  font-weight: lighter;
+}
+.sidebar h6 {
+  color: black;
+  padding: 0.5vw 0vw 0.5vw 1vw;
+  font-weight: lighter;
+  cursor: pointer;
+}
+.sidebar h6:hover {
+  font-weight: bold;
+}
+.sidebar_title {
+  background-color: black;
+  color: white !important;
+}
+.sidebar_titleCategory {
+  background-color: whitesmoke;
+  font-weight: bold;
+}
+.sidebar_categoryHeadline {
+  font-size: 1.2vw;
+  margin: 0px;
+}
